@@ -1,5 +1,7 @@
 # MolCrafts
 
+## 🌟 Vision
+
 Molecular and materials science is full of brilliant ideas trapped between
 formats, scripts, folders, notebooks, cluster jobs, datasets, and half-remembered
 decisions. Discovery should compound: a structure, a run, a model, a result —
@@ -83,9 +85,9 @@ Website: [molcrafts.org](https://molcrafts.org)
 
 ## ❤️ Sponsor
 
-<p>
+<p align="left">
   <a href="https://claude.com/contact-sales/claude-for-oss">
-    <img src="https://raw.githubusercontent.com/MolCrafts/.github/master/profile/assets/claude.svg" alt="Claude" height="28" align="absmiddle">
-    &nbsp;<b>Claude for Open Source Project</b>
+    <img src="https://raw.githubusercontent.com/MolCrafts/.github/master/profile/assets/claude.svg" alt="Claude" height="40"><br>
+    Claude for Open Source Project
   </a>
 </p>
